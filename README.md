@@ -1,6 +1,8 @@
-### Hi there 👋 
-My name is Taylor Payne and I am a Computer Science student at the University of Kentucky. When I am not in class I am working on my Portfolio-site, I am drawing or playing my Switch.
-I am currently on the hunt for a New-Grad position for when I graduate in May 2024.
+### Hi,
+### I'm Taylor
+I am a Computer Science student at the University of Kentucky. When I am not grinding on leetcode I am drawing or working on my Portfolio-Site.
+Hit me up if you need any front-end design done for a project, I love helping out anyway that I can!
+I am currently on the hunt for a New-Grad position for when I graduate in May 2024. 
 <!--
 **mentaldropouts/mentaldropouts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
