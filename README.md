@@ -2,11 +2,11 @@
 
 I'm a Computer Science student at the University of Kentucky, passionate about software development and creativity. When I'm not immersed in code, you can often find me expressing myself through art or enjoying some quality TV time with friends.
 
-🚀 **Current Project:** I'm working on an exciting application designed to help you remember your favorite quotes. Check out the repo for more information!
+🚀 [**Current Project:**](https://github.com/mentaldropouts/QuotesApp) I'm working on an exciting application designed to help you remember your favorite quotes. Check out the repo for more information!
 
 🎓 **Graduation Date:** I'm set to graduate in May 2024, and I'm actively seeking New-Grad opportunities in the world of software development. 
 
-Feel free to explore my repositories and connect with me – let's build something amazing together! 🌟
+Feel free to explore my repositories and connect with me on my [website](https://taylor-payne-portfolio.adaptable.app) – let's build something amazing together! 🌟
 
 
 
