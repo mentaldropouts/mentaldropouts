@@ -1,10 +1,14 @@
-### Hi, I'm Taylor
-<p>
-I am a Computer Science student at the University of Kentucky. <br>
-When I am not giving myself carpal tunnel by coding for too long I am drawing or watching tv with my friends <br>
-Hit me up if you need any front-end design done for a project, I love helping out anyway that I can! <br>
-I am currently on the hunt for a New-Grad position for when I graduate in May 2024. <br>
-</p>
+### 👋 Hello, I'm Taylor! 👋
+
+I'm a Computer Science student at the University of Kentucky, passionate about software development and creativity. When I'm not immersed in code, you can often find me expressing myself through art or enjoying some quality TV time with friends.
+
+🚀 **Current Project:** I'm working on an exciting application designed to help you remember your favorite quotes. Check out the repo for more information!
+
+🎓 **Graduation Date:** I'm set to graduate in May 2024, and I'm actively seeking New-Grad opportunities in the world of software development. 
+
+Feel free to explore my repositories and connect with me – let's build something amazing together! 🌟
+
+
 
 <!--
 **mentaldropouts/mentaldropouts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
