@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at the University of Kentucky, passionate about software development and creativity. When I'm not immersed in code, you can often find me expressing myself through art or enjoying some quality TV time with friends.
 
-🚀 [**Current Project:**](https://github.com/mentaldropouts/collageApp) I'm working on a program that classifies images into categories and then removes their backgrounds to make the collage making workflow a bit easier.
+🚀 [**Current Project:**](https://github.com/mentaldropouts/collageApp) I'm working on a program that pulls images from places like Google Photos, Pinterest and Instagram to make collages.
 
 🎓 **Graduation Date:** I'm set to graduate in May 2024, and I'm actively seeking New-Grad opportunities in the world of software development. 
 
