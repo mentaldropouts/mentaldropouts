@@ -1,13 +1,4 @@
 ### 👋 Hello, I'm Taylor! 👋
-
-I'm a Computer Science student at the University of Kentucky, passionate about software development and creativity. When I'm not immersed in code, you can often find me expressing myself through art or enjoying some quality TV time with friends.
-
-🚀 [**Current Project:**](https://github.com/mentaldropouts/collageApp) I'm working on a program that pulls images from places like Google Photos, Pinterest and Instagram to make collages.
-
-🎓 **Graduation Date:** I'm set to graduate in May 2024, and I'm actively seeking New-Grad opportunities in the world of software development. 
-
-Feel free to explore my repositories and connect with me on my [website](https://taylorpaynedev.adaptable.app) – let's build something amazing together! 🌟
-
 #### Skills 
 ___
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
